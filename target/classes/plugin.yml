@@ -1,0 +1,4 @@
+name: CivBackPacks
+version: '1.0-SNAPSHOT'
+main: pat.tar.civbackpacks.CivBackPacks
+api-version: '1.18'

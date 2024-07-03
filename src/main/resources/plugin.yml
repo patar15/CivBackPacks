@@ -1,0 +1,4 @@
+name: CivBackPacks
+version: '${project.version}'
+main: pat.tar.civbackpacks.CivBackPacks
+api-version: '1.18'
